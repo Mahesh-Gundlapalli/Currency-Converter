@@ -19,9 +19,8 @@ It's worth noting that this project's visualization for the sorting times doesn'
 This is a sorting algorithms visualizer, so it should be able to show more regarding the functions of various sorting algorithms and what makes them superior or inferior compared to each other in terms of efficiency and complexity.
 
 
-# Sorting Visualizer
 
-## How to Run Sorting Visualizer
+## How to Run
 
 ### Option 1: Run from the Release
 
