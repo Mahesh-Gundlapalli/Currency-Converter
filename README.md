@@ -1,4 +1,4 @@
-# Sorting_Visualizer
+![example1](https://github.com/user-attachments/assets/392dc9ee-46ad-40b7-a648-0132ae0845b2)# Sorting_Visualizer
 Implementation of Sorting Algorithms Visualization using C++ and SDL2 Library.
 
 A sorting algorithm is a procedure applied to arrange the elements in a given list in a particular order. Many algorithms exist for the process of sorting, but only a few out of these are applicable in practice due to their time and space efficiency. In this assignment, we are going to be implementing an SDL2 Library-based sorting visualizer in C++. It will help us in understanding how some of the crucial sorting algorithms work by providing a view of the whole sorting process.
@@ -18,6 +18,35 @@ It's worth noting that this project's visualization for the sorting times doesn'
 
 This is a sorting algorithms visualizer, so it should be able to show more regarding the functions of various sorting algorithms and what makes them superior or inferior compared to each other in terms of efficiency and complexity.
 
+
+# Sorting Visualizer
+
+## How to Run Sorting Visualizer
+
+### Option 1: Run from the Release
+
+1. **Download the Release:**
+   - Obtain the release version of Sorting Visualizer.
+
+2. **Run the Application:**
+   - Execute the `Sorting Visualizer.exe` file.
+
+### Option 2: Run from the Source Code
+
+1. **Download the Source Code:**
+   - Obtain the `Sorting Visualizer.cpp` file from the repository.
+
+2. **Setup SDL2 Library:**
+   - You will need to install and set up the SDL2 library.
+   - Follow the Lazy Foo' Productions' tutorial for guidance.
+   - **Important Note:** The tutorial covers setting up the 32-bit library. For Sorting Visualizer, you need the 64-bit library. Use the `x86_64-w64-mingw32` folder instead of `i686-w64-mingw32` during setup.
+
+3. **Include the Source Code:**
+   - After setting up the SDL2 library, include `Sorting Visualizer.cpp` in your project.
+   - Follow the build options mentioned in the tutorial to compile and run the project.
+
+
+
 ## Usage
 
 **Warning:** Giving repetitive commands may cause latency and the visualizer may behave unexpectedly. Please ensure that a command has finished executing before issuing a new one.
@@ -35,7 +64,5 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 
 ## Samples
 
-
-
-
+![example1](https://github.com/user-attachments/assets/2bedff7c-1cb1-49ba-9a94-221dc5fa9405)
 
