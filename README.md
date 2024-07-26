@@ -1,4 +1,4 @@
-![example1](https://github.com/user-attachments/assets/392dc9ee-46ad-40b7-a648-0132ae0845b2)# Sorting_Visualizer
+# Sorting_Visualizer
 Implementation of Sorting Algorithms Visualization using C++ and SDL2 Library.
 
 A sorting algorithm is a procedure applied to arrange the elements in a given list in a particular order. Many algorithms exist for the process of sorting, but only a few out of these are applicable in practice due to their time and space efficiency. In this assignment, we are going to be implementing an SDL2 Library-based sorting visualizer in C++. It will help us in understanding how some of the crucial sorting algorithms work by providing a view of the whole sorting process.
@@ -22,7 +22,7 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 
 ## How to Run
 
-### Option 1: Run from the Release
+#### Option 1: Run from the Release
 
 1. **Download the Release:**
    - Obtain the release version of Sorting Visualizer.
@@ -30,7 +30,7 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 2. **Run the Application:**
    - Execute the `Sorting Visualizer.exe` file.
 
-### Option 2: Run from the Source Code
+#### Option 2: Run from the Source Code
 
 1. **Download the Source Code:**
    - Obtain the `Sorting Visualizer.cpp` file from the repository.
@@ -65,3 +65,4 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 
 ![example1](https://github.com/user-attachments/assets/2bedff7c-1cb1-49ba-9a94-221dc5fa9405)
 
+![example2](https://github.com/user-attachments/assets/b58074a6-43bb-4d1f-9879-af2276c5452f)
